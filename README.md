@@ -83,7 +83,7 @@ $scope.sortOptions = [{
   },
   {
     display: 'Descending'
-  , value: true
+   value: true
   }
 ];
 ```
